@@ -1,5 +1,5 @@
 # Video Streaming with RTSP and RTP
-This is my assignment for HCMUT Computer Engineering course CO2019 - *Computer Networking*: **Making a client-server video streaming app using RTSP and RTP**. More details are in the report file (written in English).
+This is my assignment for HCMUT Computer Engineering course CO3003 - *Computer Networking*: **Making a client-server video streaming app using RTSP and RTP**. More details are in the report file (written in English).
 
 ## Introduction
 This application uses a simplified version of RTSP and RTP to stream a video from a server to a client. The only supported video format is mjpeg. Some extended functionalities to calculate some performance metrics are also included.
